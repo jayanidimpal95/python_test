@@ -1,0 +1,23 @@
+2017-07-16 22:39:33,828 - INFO - Started
+2017-07-16 22:39:38,851 - ERROR - user enter y as 0 
+2017-07-16 22:39:38,851 - INFO - division done
+2017-07-16 22:39:42,657 - INFO - next iteration
+2017-07-16 22:39:49,022 - INFO - addition done
+2017-07-16 22:39:51,424 - INFO - next iteration
+2017-07-16 22:39:59,786 - INFO - multiplication done
+2017-07-16 22:40:04,839 - INFO - next iteration
+2017-07-16 22:40:04,839 - INFO - Finished
+2017-07-16 22:46:05,921 - INFO - Started
+2017-07-16 22:46:31,697 - INFO - Started
+2017-07-16 22:46:38,494 - ERROR - user enter Not a valid operator y
+2017-07-16 22:46:43,132 - ERROR - x is not a no.
+2017-07-16 22:46:43,134 - ERROR - y is not a no.
+2017-07-16 22:46:45,213 - ERROR - x is not a no.
+2017-07-16 22:46:45,213 - ERROR - y is not a no.
+2017-07-16 22:46:51,367 - ERROR - user enter Not a valid operator >
+2017-07-16 22:46:52,887 - ERROR - x is not a no.
+2017-07-16 22:46:52,887 - ERROR - y is not a no.
+2017-07-16 22:46:53,400 - ERROR - x is not a no.
+2017-07-16 22:46:53,401 - ERROR - y is not a no.
+2017-07-16 22:46:53,812 - ERROR - x is not a no.
+2017-07-16 22:46:53,815 - ERROR - y is not a no.
